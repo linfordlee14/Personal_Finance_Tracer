@@ -31,8 +31,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 Pull requests are welcome! If you find a bug or have suggestions, please open an issue.
 
 📢 Connect With Me
-GitHub: @linfordlee14
-
+GitHub: https://github.com/linfordlee14
 LinkedIn: https://www.linkedin.com/in/linfordlee14/
 
 
