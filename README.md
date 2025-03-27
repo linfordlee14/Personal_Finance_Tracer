@@ -33,6 +33,6 @@ Pull requests are welcome! If you find a bug or have suggestions, please open an
 📢 Connect With Me
 GitHub: @linfordlee14
 
-LinkedIn: Linford Musiyambodza
+LinkedIn: https://www.linkedin.com/in/linfordlee14/
 
 
