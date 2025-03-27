@@ -32,6 +32,7 @@ Pull requests are welcome! If you find a bug or have suggestions, please open an
 
 📢 Connect With Me
 GitHub: https://github.com/linfordlee14
+
 LinkedIn: https://www.linkedin.com/in/linfordlee14/
 
 
